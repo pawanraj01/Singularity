@@ -112,10 +112,7 @@ Three converging shifts make this the right moment:
                               ▼
 ┌──────────────────────────────────────────────────────────────────────┐
 │                     DJANGO BACKEND  (Control Hub)                    │
-│  ┌────────────┐  ┌──────────────┐  ┌────────────┐  ┌─────────────┐   │
-│  │ OpenLDAP   │→ │ Task         │→ │ Agent      │→ │ File        │   │
-│  │ Auth       │  │ Classifier   │  │ Router     │  │ Generator   │   │
-│  └────────────┘  └──────────────┘  └─────┬──────┘  └─────────────┘   │
+│ hosts and manages authentication and authorizaion tasks│             |
 └─────────────────────────────────────────┼────────────────────────────┘
                                           │
                                           ▼
