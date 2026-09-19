@@ -3,7 +3,6 @@
 ### Enterprise-Grade Private AI Agent Platform for Sovereign Organizations
 
 [![Status](https://img.shields.io/badge/status-active%20development-brightgreen)]()
-[![License](https://img.shields.io/badge/license-MIT-blue)]()
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)]()
 [![Django](https://img.shields.io/badge/Django-5.0-092E20?logo=django&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)]()
